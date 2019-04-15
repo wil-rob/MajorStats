@@ -1,0 +1,13 @@
+{
+    "name": "vendor/test-site2",
+    "description": "Description of project test-site2.",
+    "authors": [
+        {
+            "name": "william-robinson",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+        "mysportsfeeds/mysportsfeeds-php": ">=2.0.0"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "cac7359192610afff91fee0d049d1dea",
+    "content-hash": "4b7c6bf361cfbc774e97a9d9e1158fb6",
+    "packages": [
+        {
+            "name": "mysportsfeeds/mysportsfeeds-php",
+            "version": "2.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/MySportsFeeds/mysportsfeeds-php.git",
+                "reference": "9f958c9ab1dcb39548b5b4b7701a7d498438f17c"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/MySportsFeeds/mysportsfeeds-php/zipball/9f958c9ab1dcb39548b5b4b7701a7d498438f17c",
+                "reference": "9f958c9ab1dcb39548b5b4b7701a7d498438f17c",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.6.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "MySportsFeeds\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Brad Barkhouse",
+                    "email": "brad.barkhouse@gmail.com"
+                }
+            ],
+            "description": "PHP wrapper for the MySportsFeeds sports data API.",
+            "time": "2018-08-22 20:14:13"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
